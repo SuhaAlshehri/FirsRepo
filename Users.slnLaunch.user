@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Users\\Users.csproj",
+        "Action": "Start",
+        "DebugTarget": "UsersAPI"
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\Users\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90A2A845-D067-453F-89B4-1FB71291647A}|Users\\Users.csproj|c:\\users\\dell\\source\\repos\\users\\users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A2A845-D067-453F-89B4-1FB71291647A}|Users\\Users.csproj|solutionrelative:users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A2A845-D067-453F-89B4-1FB71291647A}|Users\\Users.csproj|c:\\users\\dell\\source\\repos\\users\\users\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A2A845-D067-453F-89B4-1FB71291647A}|Users\\Users.csproj|solutionrelative:users\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A2A845-D067-453F-89B4-1FB71291647A}|Users\\Users.csproj|c:\\users\\dell\\source\\repos\\users\\users\\extentions\\custemjwtauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A2A845-D067-453F-89B4-1FB71291647A}|Users\\Users.csproj|solutionrelative:users\\extentions\\custemjwtauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A2A845-D067-453F-89B4-1FB71291647A}|Users\\Users.csproj|c:\\users\\dell\\source\\repos\\users\\users\\models\\dtologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A2A845-D067-453F-89B4-1FB71291647A}|Users\\Users.csproj|solutionrelative:users\\models\\dtologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustemJWTAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Users\\Users\\Extentions\\CustemJWTAuthentication.cs",
+              "RelativeDocumentMoniker": "Users\\Extentions\\CustemJWTAuthentication.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Users\\Users\\Extentions\\CustemJWTAuthentication.cs",
+              "RelativeToolTip": "Users\\Extentions\\CustemJWTAuthentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:00:29.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Users\\Users\\Program.cs",
+              "RelativeDocumentMoniker": "Users\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Users\\Users\\Program.cs",
+              "RelativeToolTip": "Users\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:17:18.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Users\\Users\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Users\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Users\\Users\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Users\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:17:27.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dtoLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Users\\Users\\Models\\dtoLogin.cs",
+              "RelativeDocumentMoniker": "Users\\Models\\dtoLogin.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Users\\Users\\Models\\dtoLogin.cs",
+              "RelativeToolTip": "Users\\Models\\dtoLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T13:45:32.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

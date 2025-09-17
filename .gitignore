@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/FirsRepo/CopilotIndices/17.14.1091.29919
+/.vs/FirsRepo/FileContentIndex
+/.vs/FirsRepo/v17
+/.vs/Users/CopilotIndices/17.14.1091.29919
+/.vs/Users/DesignTimeBuild
+/.vs/Users/FileContentIndex
+/.vs/Users/v17
+/.vs
+/Users/obj/Debug/net9.0/Users.AssemblyInfo.cs
+/Users/obj/Debug/net9.0/Users.AssemblyInfoInputs.cache
+/Users/obj/Debug/net9.0/Users.assets.cache
+/Users/obj/Debug/net9.0/Users.GeneratedMSBuildEditorConfig.editorconfig
+/Users/obj/Release/net9.0/Users.GlobalUsings.g.cs
+/Users/obj/Release/net9.0/Users.AssemblyInfo.cs
+/Users/obj/Release/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+/Users/obj/Release/net9.0/Users.AssemblyInfoInputs.cache
+/Users/obj/Release/net9.0/Users.assets.cache
+/Users/obj/Release/net9.0/Users.csproj.AssemblyReference.cache
+/Users/obj/Release/net9.0/Users.GeneratedMSBuildEditorConfig.editorconfig
